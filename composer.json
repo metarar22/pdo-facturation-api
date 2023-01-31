@@ -1,0 +1,15 @@
+{
+    "name": "metarar/api-php-natif",
+    "autoload": {
+        "psr-4": {
+            "Metarar\\ApiPhpNatif\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "metarar22",
+            "email": "victoireboris@gmail.com"
+        }
+    ],
+    "require": {}
+}

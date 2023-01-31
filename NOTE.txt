@@ -1,0 +1,2 @@
+La method POST ne fonctionné (facturation.php) pas car j'avais client_id comme foreign KEY. Je n'ai pas pu régler le problème;
+C'est pourquoi je retirer le fait que cette table soit une clé étrangère. 
